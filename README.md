@@ -1,4 +1,4 @@
 # trio_msn
-Luiz Davi dos Santos Silva
-Vitor Gabriel da Silva Guimarães
-Gian Leandro Lopes de Amorim Santos
+Luiz Davi dos Santos Silva <br>
+Vitor Gabriel da Silva Guimarães <br>
+Gian Leandro Lopes de Amorim Santos <br>
